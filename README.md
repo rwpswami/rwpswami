@@ -1,14 +1,13 @@
 ### Prashant Swami 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### About
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
 -  **Languages :** JavaScript, VueJs, Laravel -> Java (Spring boot) 
 -  **Hobbies :** Articles & Music :headphones:
--  **Fact :** Make it work, make it right, make it fast. :heart: 
+-  **Fact :** Make it work, make it right, make it fast. 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![github stats](https://github-readme-stats.vercel.app/api?username=rwpswami&show_icons=true)
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
